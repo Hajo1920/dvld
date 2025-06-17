@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_App", "DVLD_App\DVLD_App.csproj", "{BE12D44E-84DD-4FF6-93DA-4522631F933E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_BusinessLayer", "DVLD_BusinessLayer\DVLD_BusinessLayer.csproj", "{1CB7621A-14A2-4C2A-8E9E-E16893C0E19F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD_DataLayer", "DVLD_DataLayer\DVLD_DataLayer.csproj", "{DA0349AE-B607-4077-8488-52A14765ACC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE12D44E-84DD-4FF6-93DA-4522631F933E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE12D44E-84DD-4FF6-93DA-4522631F933E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE12D44E-84DD-4FF6-93DA-4522631F933E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE12D44E-84DD-4FF6-93DA-4522631F933E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB7621A-14A2-4C2A-8E9E-E16893C0E19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB7621A-14A2-4C2A-8E9E-E16893C0E19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB7621A-14A2-4C2A-8E9E-E16893C0E19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB7621A-14A2-4C2A-8E9E-E16893C0E19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0349AE-B607-4077-8488-52A14765ACC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0349AE-B607-4077-8488-52A14765ACC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0349AE-B607-4077-8488-52A14765ACC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0349AE-B607-4077-8488-52A14765ACC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

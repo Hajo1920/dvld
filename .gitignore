@@ -1,0 +1,29 @@
+# Build and output folders
+bin/
+obj/
+publish/
+out/
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# Visual Studio user-specific settings
+*.user
+*.suo
+*.vs/
+*.vscode/
+
+# SQL Server and local DB artifacts
+*.mdf
+*.ldf
+*.bak
+
+
+# Logs and temp
+*.log
+*.tmp
+
+# Packages (if not using package restore)
+packages/
